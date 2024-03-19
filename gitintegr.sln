@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitintegr", "gitintegr\gitintegr.csproj", "{EFAE06CA-A524-46E0-832B-BB986A1E6DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAE06CA-A524-46E0-832B-BB986A1E6DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAE06CA-A524-46E0-832B-BB986A1E6DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAE06CA-A524-46E0-832B-BB986A1E6DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAE06CA-A524-46E0-832B-BB986A1E6DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963728EE-A28D-4936-B951-29B1021B86F5}
+	EndGlobalSection
+EndGlobal
